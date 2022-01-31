@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "SentimentModel.mbconfig": {
+      "commandName": "Project",
+      "workingDirectory": "J:\\Unifo\\source\\repos",
+      "environmentVariables": {
+        "Practice": "Value",
+        "Arbitration": "Value",
+        "Dimensionality": "Value"
+      },
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
