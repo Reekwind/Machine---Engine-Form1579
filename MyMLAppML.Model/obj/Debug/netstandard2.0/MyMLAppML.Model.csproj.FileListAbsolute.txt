@@ -1,0 +1,11 @@
+J:\Unifo\source\repos\MyMLAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+J:\Unifo\source\repos\MyMLAppML.Model\bin\Debug\netstandard2.0\MyMLAppML.Model.deps.json
+J:\Unifo\source\repos\MyMLAppML.Model\bin\Debug\netstandard2.0\MyMLAppML.Model.dll
+J:\Unifo\source\repos\MyMLAppML.Model\bin\Debug\netstandard2.0\MyMLAppML.Model.pdb
+J:\Unifo\source\repos\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.csproj.AssemblyReference.cache
+J:\Unifo\source\repos\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.GeneratedMSBuildEditorConfig.editorconfig
+J:\Unifo\source\repos\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.AssemblyInfoInputs.cache
+J:\Unifo\source\repos\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.AssemblyInfo.cs
+J:\Unifo\source\repos\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.csproj.CoreCompileInputs.cache
+J:\Unifo\source\repos\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.dll
+J:\Unifo\source\repos\MyMLAppML.Model\obj\Debug\netstandard2.0\MyMLAppML.Model.pdb

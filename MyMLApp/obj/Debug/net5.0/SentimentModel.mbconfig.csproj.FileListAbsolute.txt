@@ -1,0 +1,5 @@
+J:\Unifo\source\repos\MyMLApp\obj\Debug\net5.0\SentimentModel.mbconfig.csproj.AssemblyReference.cache
+J:\Unifo\source\repos\MyMLApp\obj\Debug\net5.0\SentimentModel.mbconfig.GeneratedMSBuildEditorConfig.editorconfig
+J:\Unifo\source\repos\MyMLApp\obj\Debug\net5.0\SentimentModel.mbconfig.AssemblyInfoInputs.cache
+J:\Unifo\source\repos\MyMLApp\obj\Debug\net5.0\SentimentModel.mbconfig.AssemblyInfo.cs
+J:\Unifo\source\repos\MyMLApp\obj\Debug\net5.0\SentimentModel.mbconfig.csproj.CoreCompileInputs.cache
